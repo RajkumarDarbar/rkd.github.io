@@ -36,14 +36,14 @@ p {
 }
 
 #name h1 {
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: bold;;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
-	font-size: 15px;
+	font-size: 20px;
 	margin-left: 2px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
