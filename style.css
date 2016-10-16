@@ -121,6 +121,7 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
+	display: inline-block;
 }
 
 .sectionTitle h1 {
@@ -134,6 +135,7 @@ section:last-child {
 	font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
+	display: inline-block;
 }
 
 .subDetails {
