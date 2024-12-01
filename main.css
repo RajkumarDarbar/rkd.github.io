@@ -124,13 +124,10 @@ hr {
 
   .name {
     font-size: 1.2em;
-    text-align: center;
   }
 
   .contact-information, .links-container {
     font-size: .9em;
-    text-align: center;
-    margin: 0 auto;
   }
 
   .links img {
@@ -138,25 +135,23 @@ hr {
   }
 
   .primary-titles, .location {
-    text-align: center;
     margin: 1em 0;
   }
 
   .category-headers {
     font-size: .85em;
-    text-align: center;
   }
 
   .category-details, .category-description, .category-description-main {
     font-size: .85em;
     margin-left: 0;
     margin-right: 0;
-    text-align: left;
+    text-align: justify;
   }
 
   .thumb {
     display: block;
-    margin: 0 auto 10px auto;
+    margin-bottom: 10px;
   }
 
   .container {
